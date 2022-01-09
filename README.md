@@ -1,17 +1,17 @@
-# _ Pet Website _
+# _Pet Website_
 
-#### By _ Justice Douglas _
+#### By _Justice Douglas_
 
-#### _ This static website was a practice project to learn the fundamentals of HTML and CSS formatting. _
+#### _This static website was a practice project to learn the fundamentals of HTML and CSS formatting._
 
 ## Technologies Used
 
-* _ HTML _
-* _ CSS _
+* _HTML_
+* _CSS_
 
 ## Description
 
-_ This Pet Website explains some of the quirks and characteristics of my cat Velma, utilizing the technology stack HTML and CSS. _
+_This Pet Website explains some of the quirks and characteristics of my cat Velma, utilizing the technology stack HTML and CSS._
 
 ## Setup/Installation Requirements
 
@@ -25,4 +25,4 @@ _ This Pet Website explains some of the quirks and characteristics of my cat Vel
 
 ## License
 
-* Copyright (c) _ 01/09/2022 _ _ Justice Douglas _
+* Copyright (c) _01/09/2022_ _Justice Douglas_
